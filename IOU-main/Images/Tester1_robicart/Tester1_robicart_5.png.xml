@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LabelingTool version=" 2.10.6_10.12.13_6">
+  <creator>RamyaP</creator>
+  <Imagetype>Stadium interview</Imagetype>
+  <project name="Robikart_BBox">
+    <class id="0">
+      <boundingbox id="0" Inds_id="None">
+        <x1>483</x1>
+        <y1>255</y1>
+        <x2>542</x2>
+        <y2>333</y2>
+        <w>59</w>
+        <h>78</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:2 2022-09-03</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="1" Inds_id="None">
+        <x1>122</x1>
+        <y1>188</y1>
+        <x2>218</x2>
+        <y2>266</y2>
+        <w>96</w>
+        <h>78</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:3 2022-09-03</Time1>
+        </time>
+      </boundingbox>
+    </class>
+    <class id="1">
+      <boundingbox id="0" Inds_id="None">
+        <x1>357</x1>
+        <y1>131</y1>
+        <x2>448</x2>
+        <y2>288</y2>
+        <w>91</w>
+        <h>157</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:3 2022-09-03</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="1" Inds_id="None">
+        <x1>2</x1>
+        <y1>2</y1>
+        <x2>618</x2>
+        <y2>138</y2>
+        <w>616</w>
+        <h>136</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:2 2022-09-03</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="2" Inds_id="None">
+        <x1>253</x1>
+        <y1>290</y1>
+        <x2>314</x2>
+        <y2>479</y2>
+        <w>61</w>
+        <h>189</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:3 2022-09-03</Time1>
+        </time>
+      </boundingbox>
+    </class>
+    <class id="2">
+      <boundingbox id="0" Inds_id="None">
+        <x1>171</x1>
+        <y1>197</y1>
+        <x2>188</x2>
+        <y2>218</y2>
+        <w>17</w>
+        <h>21</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:2 2022-09-03</Time1>
+        </time>
+      </boundingbox>
+    </class>
+  </project>
+</LabelingTool>

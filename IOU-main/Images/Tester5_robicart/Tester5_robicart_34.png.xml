@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LabelingTool version=" 2.10.6_10.12.13_6">
+  <creator>RamyaP</creator>
+  <Imagetype>Stadium interview</Imagetype>
+  <project name="Robikart_BBox">
+    <class id="0">
+      <boundingbox id="0" Inds_id="None">
+        <x1>503</x1>
+        <y1>268</y1>
+        <x2>591</x2>
+        <y2>337</y2>
+        <w>88</w>
+        <h>69</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:3 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="1" Inds_id="None">
+        <x1>522</x1>
+        <y1>100</y1>
+        <x2>624</x2>
+        <y2>231</y2>
+        <w>102</w>
+        <h>131</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:5 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="2" Inds_id="None">
+        <x1>531</x1>
+        <y1>214</y1>
+        <x2>632</x2>
+        <y2>299</y2>
+        <w>101</w>
+        <h>85</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:4 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="3" Inds_id="None">
+        <x1>488</x1>
+        <y1>88</y1>
+        <x2>555</x2>
+        <y2>212</y2>
+        <w>67</w>
+        <h>124</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:4 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+    </class>
+    <class id="1">
+      <boundingbox id="0" Inds_id="None">
+        <x1>360</x1>
+        <y1>130</y1>
+        <x2>448</x2>
+        <y2>291</y2>
+        <w>88</w>
+        <h>161</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:3 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="1" Inds_id="None">
+        <x1>1</x1>
+        <y1>0</y1>
+        <x2>538</x2>
+        <y2>155</y2>
+        <w>537</w>
+        <h>155</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:6 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="2" Inds_id="None">
+        <x1>201</x1>
+        <y1>371</y1>
+        <x2>348</x2>
+        <y2>478</y2>
+        <w>147</w>
+        <h>107</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:0 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+    </class>
+    <class id="2">
+      <boundingbox id="0" Inds_id="None">
+        <x1>573</x1>
+        <y1>308</y1>
+        <x2>586</x2>
+        <y2>323</y2>
+        <w>13</w>
+        <h>15</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:1 2022-09-04</Time1>
+        </time>
+      </boundingbox>
+    </class>
+  </project>
+</LabelingTool>

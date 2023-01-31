@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LabelingTool version=" 2.10.6_10.12.13_6">
+  <creator>RamyaP</creator>
+  <Imagetype>Stadium interview</Imagetype>
+  <project name="Robikart_BBox">
+    <class id="1">
+      <boundingbox id="0" Inds_id="None">
+        <x1>0</x1>
+        <y1>1</y1>
+        <x2>604</x2>
+        <y2>130</y2>
+        <w>604</w>
+        <h>129</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:2 2022-09-02</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="1" Inds_id="None">
+        <x1>362</x1>
+        <y1>132</y1>
+        <x2>452</x2>
+        <y2>291</y2>
+        <w>90</w>
+        <h>159</h>
+        <angle>0</angle>
+        <AttrList n="0"/>
+        <time>
+          <Time1>0:0:3 2022-09-02</Time1>
+        </time>
+      </boundingbox>
+      <boundingbox id="2" Inds_id="None">
+        <x1>136</x1>
+        <y1>109</y1>
+        <x2>175</x2>
+        <y2>240</y2>
+        <w>39</w>
+        <h>131</h>
+        <angle>0</angle>
+        <time>
+          <Time1>0:0:2 2022-09-05</Time1>
+        </time>
+      </boundingbox>
+    </class>
+  </project>
+</LabelingTool>
