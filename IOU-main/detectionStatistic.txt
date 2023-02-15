@@ -1,0 +1,2291 @@
+Name of root folder - Images/Tester6_robicart
+Images/Tester6_robicart/images/Tester6_robicart_80.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 9
+IOU: -1.39
+IOU: -2.66
+IOU: -1.38
+IOU: -1.87
+IOU: 0.16
+IOU: -1.4
+IOU: -1.83
+IOU: 3.51
+IOU: -2.48
+IOU: 0.29
+IOU: 0.12
+IOU: 0.32
+IOU: 0.05
+IOU: 0.38
+IOU: 0.3
+IOU: 0.05
+IOU: 0.01
+IOU: 0.06
+IOU: 0.09
+IOU: 0.03
+IOU: 0.1
+IOU: 0.01
+IOU: 0.05
+IOU: 0.09
+IOU: 0.01
+IOU: 0.0
+IOU: 0.0
+IOU: -1.56
+IOU: -4.39
+IOU: -1.54
+IOU: -2.98
+IOU: 0.18
+IOU: -1.58
+IOU: -2.72
+IOU: 0.21
+IOU: 0.54
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.02
+IOU: 0.0
+IOU: 0.0
+IOU: 0.01
+IOU: 0.0
+IOU: -1.07
+IOU: -1.09
+IOU: -1.07
+IOU: -1.13
+IOU: -1.2
+IOU: -1.08
+IOU: -1.12
+IOU: 0.45
+IOU: 0.57
+IOU: -1.02
+IOU: -1.07
+IOU: -1.02
+IOU: -1.09
+IOU: -1.19
+IOU: -1.02
+IOU: -1.08
+IOU: 3.75
+IOU: -1.04
+IOU: -1.01
+IOU: -1.02
+IOU: -1.01
+IOU: -1.02
+IOU: -1.73
+IOU: -1.01
+IOU: -1.02
+IOU: -1.1
+IOU: -1.02
+IOU: -1.05
+IOU: -1.86
+IOU: -1.04
+IOU: -1.22
+IOU: -1.71
+IOU: -1.05
+IOU: -1.18
+IOU: 0.12
+IOU: -1.17
+Images/Tester6_robicart/images/Tester6_robicart_3.png
+Count of groundtruth bounding boxes: 4
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_29.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_39.png
+Count of groundtruth bounding boxes: 13
+Count of detected bounding boxes: 7
+IOU: -1.06
+IOU: -1.05
+IOU: -1.05
+IOU: -1.03
+IOU: -1.03
+IOU: -1.03
+IOU: -1.02
+IOU: -1.33
+IOU: -1.24
+IOU: -1.16
+IOU: -1.14
+IOU: -1.12
+IOU: -1.15
+IOU: -1.12
+IOU: -1.28
+IOU: -1.24
+IOU: -1.15
+IOU: -1.13
+IOU: -1.12
+IOU: -1.13
+IOU: -1.12
+IOU: -1.28
+IOU: -1.25
+IOU: -1.16
+IOU: -1.15
+IOU: -1.14
+IOU: -1.15
+IOU: -1.13
+IOU: -1.12
+IOU: -1.11
+IOU: -1.08
+IOU: -1.07
+IOU: -1.07
+IOU: -1.07
+IOU: -1.06
+IOU: -2.37
+IOU: -1.84
+IOU: -1.44
+IOU: -1.43
+IOU: -1.36
+IOU: -1.45
+IOU: -1.34
+IOU: 0.08
+IOU: 0.15
+IOU: 0.14
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.45
+IOU: 0.6
+IOU: 8.52
+IOU: 23.72
+IOU: -13.35
+IOU: 18.21
+IOU: -7.27
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.02
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.0
+IOU: -1.14
+IOU: -1.1
+IOU: -3.0
+IOU: -1.56
+IOU: -1.29
+IOU: -2.53
+IOU: -1.46
+Images/Tester6_robicart/images/Tester6_robicart_16.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_74.png
+Count of groundtruth bounding boxes: 8
+Count of detected bounding boxes: 4
+IOU: -1.59
+IOU: -1.54
+IOU: -1.55
+IOU: -1.95
+IOU: 0.11
+IOU: 0.14
+IOU: 0.12
+IOU: 2.51
+IOU: 1.05
+IOU: 1.3
+IOU: 1.6
+IOU: 3.52
+IOU: -2.01
+IOU: -1.9
+IOU: -1.9
+IOU: -4.06
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.03
+IOU: -1.65
+IOU: -1.62
+IOU: -1.57
+IOU: 0.97
+IOU: -1.04
+IOU: -1.03
+IOU: -1.03
+IOU: -1.5
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.27
+Images/Tester6_robicart/images/Tester6_robicart_64.png
+Count of groundtruth bounding boxes: 18
+Count of detected bounding boxes: 4
+IOU: -1.19
+IOU: -1.12
+IOU: -1.17
+IOU: -1.11
+IOU: 0.62
+IOU: -2.45
+IOU: 0.69
+IOU: -2.32
+IOU: -4929.0
+IOU: -2.13
+IOU: -13.2
+IOU: -2.02
+IOU: -1.55
+IOU: -1.34
+IOU: -1.49
+IOU: -1.32
+IOU: 1.12
+IOU: 3.09
+IOU: 1.26
+IOU: 3.55
+IOU: -1.21
+IOU: -1.16
+IOU: -1.2
+IOU: -1.15
+IOU: -1.11
+IOU: -1.09
+IOU: -1.1
+IOU: -1.08
+IOU: 1.41
+IOU: 2.0
+IOU: 1.97
+IOU: 2.57
+IOU: -1.88
+IOU: -1.61
+IOU: -1.72
+IOU: -1.55
+IOU: -1.14
+IOU: -1.12
+IOU: -1.13
+IOU: -1.11
+IOU: 0.59
+IOU: 1.14
+IOU: 0.43
+IOU: 0.77
+IOU: 0.4
+IOU: 0.47
+IOU: 0.55
+IOU: 0.6
+IOU: 0.01
+IOU: 0.0
+IOU: 0.01
+IOU: 0.0
+IOU: 0.15
+IOU: 0.33
+IOU: 0.15
+IOU: 0.47
+IOU: -1.07
+IOU: -1.03
+IOU: -1.06
+IOU: -1.03
+IOU: -1.02
+IOU: -1.0
+IOU: -1.02
+IOU: -1.0
+IOU: -1.05
+IOU: -1.03
+IOU: -1.05
+IOU: -1.02
+IOU: -1.44
+IOU: -1.23
+IOU: -1.58
+IOU: -1.29
+Images/Tester6_robicart/images/Tester6_robicart_52.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_42.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_30.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 2
+IOU: -2.27
+IOU: -2.13
+IOU: -1.27
+IOU: -1.25
+IOU: -1.13
+IOU: -1.12
+IOU: -1.27
+IOU: -1.24
+IOU: 20.14
+IOU: 2.53
+IOU: 0.39
+IOU: 0.64
+IOU: 0.0
+IOU: 0.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.02
+IOU: -1.02
+IOU: -1.07
+IOU: -1.1
+Images/Tester6_robicart/images/Tester6_robicart_20.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_43.png
+Count of groundtruth bounding boxes: 12
+Count of detected bounding boxes: 3
+IOU: -1.28
+IOU: -1.07
+IOU: -1.07
+IOU: -1.11
+IOU: -1.04
+IOU: -1.05
+IOU: 0.82
+IOU: -1.09
+IOU: -1.09
+IOU: -1.29
+IOU: -1.03
+IOU: -1.03
+IOU: 0.13
+IOU: -1.27
+IOU: -1.27
+IOU: 3.3
+IOU: -1.29
+IOU: -1.3
+IOU: 0.14
+IOU: 0.13
+IOU: 0.07
+IOU: 0.43
+IOU: -1.84
+IOU: -1.86
+IOU: 0.01
+IOU: 0.0
+IOU: 0.0
+IOU: -1.02
+IOU: -1.0
+IOU: -1.0
+IOU: -1.03
+IOU: -1.0
+IOU: -1.0
+IOU: -1.06
+IOU: -1.0
+IOU: -1.0
+Images/Tester6_robicart/images/Tester6_robicart_53.png
+Count of groundtruth bounding boxes: 17
+Count of detected bounding boxes: 3
+IOU: -1.03
+IOU: -1.04
+IOU: -1.04
+IOU: -1.04
+IOU: -1.06
+IOU: -1.06
+IOU: -1.11
+IOU: -1.13
+IOU: -1.14
+IOU: -1.06
+IOU: -1.07
+IOU: -1.07
+IOU: -1.03
+IOU: -1.05
+IOU: -1.05
+IOU: -1.03
+IOU: -1.04
+IOU: -1.04
+IOU: -1.04
+IOU: -1.05
+IOU: -1.05
+IOU: -1.55
+IOU: -1.64
+IOU: -1.68
+IOU: -2.12
+IOU: -2.65
+IOU: -2.8
+IOU: 1.35
+IOU: 0.87
+IOU: 0.7
+IOU: -1.93
+IOU: -2.23
+IOU: -2.38
+IOU: 0.0
+IOU: 0.0
+IOU: 0.01
+IOU: -1.95
+IOU: -1.9
+IOU: -2.08
+IOU: -1.01
+IOU: -1.03
+IOU: -1.03
+IOU: -1.01
+IOU: -1.02
+IOU: -1.02
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.09
+IOU: -1.11
+IOU: -1.13
+Images/Tester6_robicart/images/Tester6_robicart_21.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 3
+IOU: -1.37
+IOU: -2.51
+IOU: -5.11
+IOU: -1.07
+IOU: -1.22
+IOU: -1.39
+IOU: -1.08
+IOU: -1.23
+IOU: -1.35
+IOU: -1.03
+IOU: -1.09
+IOU: -1.15
+IOU: 0.14
+IOU: 0.02
+IOU: 0.05
+IOU: -1.18
+IOU: -8.15
+IOU: 2.02
+IOU: 0.0
+IOU: 0.0
+IOU: 0.02
+IOU: -1.13
+IOU: -1.07
+IOU: -1.18
+IOU: -1.0
+IOU: -1.0
+IOU: -1.03
+IOU: -1.0
+IOU: -1.0
+IOU: -1.04
+IOU: -1.0
+IOU: -1.01
+IOU: -1.07
+Images/Tester6_robicart/images/Tester6_robicart_31.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_38.png
+Count of groundtruth bounding boxes: 12
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_28.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_2.png
+Count of groundtruth bounding boxes: 3
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_81.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 7
+IOU: -1.45
+IOU: 2.25
+IOU: -2.01
+IOU: -1.48
+IOU: -1.96
+IOU: 8.09
+IOU: -1.47
+IOU: 0.23
+IOU: 0.04
+IOU: 0.1
+IOU: 0.19
+IOU: 0.11
+IOU: 1.06
+IOU: 0.2
+IOU: 0.02
+IOU: 0.01
+IOU: 0.01
+IOU: 0.02
+IOU: 0.01
+IOU: 0.01
+IOU: 0.01
+IOU: -1.68
+IOU: 0.37
+IOU: 2.89
+IOU: -1.74
+IOU: 4.02
+IOU: 1.39
+IOU: -1.73
+IOU: 0.01
+IOU: 0.03
+IOU: 0.0
+IOU: 0.01
+IOU: 0.0
+IOU: 0.1
+IOU: 0.0
+IOU: -1.3
+IOU: 0.27
+IOU: 0.16
+IOU: -1.31
+IOU: 0.16
+IOU: -2.62
+IOU: -1.31
+IOU: -1.03
+IOU: -2.65
+IOU: -1.04
+IOU: -1.03
+IOU: -1.03
+IOU: -1.35
+IOU: -1.03
+IOU: -1.01
+IOU: -1.21
+IOU: -1.02
+IOU: -1.01
+IOU: -1.02
+IOU: -1.33
+IOU: -1.01
+IOU: -1.03
+IOU: 0.81
+IOU: -1.13
+IOU: -1.03
+IOU: -1.16
+IOU: -1.64
+IOU: -1.03
+Images/Tester6_robicart/images/Tester6_robicart_17.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_65.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_75.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 9
+IOU: -1.89
+IOU: -1.4
+IOU: -5.59
+IOU: 0.15
+IOU: -1.38
+IOU: -1.79
+IOU: 3.58
+IOU: -1.4
+IOU: -2.41
+IOU: 0.05
+IOU: 0.29
+IOU: 0.21
+IOU: 0.37
+IOU: 0.31
+IOU: 0.06
+IOU: 0.01
+IOU: 0.29
+IOU: 0.07
+IOU: 0.01
+IOU: 0.09
+IOU: 0.06
+IOU: 0.04
+IOU: 0.1
+IOU: 0.01
+IOU: 0.0
+IOU: 0.09
+IOU: 0.0
+IOU: -2.85
+IOU: -1.55
+IOU: -15.12
+IOU: 0.21
+IOU: -1.52
+IOU: -2.48
+IOU: 0.21
+IOU: -1.56
+IOU: 0.58
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.03
+IOU: 0.0
+IOU: 0.0
+IOU: 0.01
+IOU: 0.0
+IOU: 0.0
+IOU: -1.17
+IOU: -1.09
+IOU: -1.11
+IOU: -1.29
+IOU: -1.09
+IOU: -1.15
+IOU: 0.18
+IOU: -1.09
+IOU: 2.64
+IOU: -1.09
+IOU: -1.02
+IOU: -1.04
+IOU: -1.28
+IOU: -1.02
+IOU: -1.07
+IOU: 12.14
+IOU: -1.02
+IOU: -1.04
+IOU: -1.02
+IOU: -1.01
+IOU: -1.03
+IOU: -2.29
+IOU: -1.01
+IOU: -1.02
+IOU: -1.09
+IOU: -1.01
+IOU: -1.02
+IOU: -1.28
+IOU: -1.07
+IOU: -1.39
+IOU: -2.19
+IOU: -1.06
+IOU: -1.21
+IOU: 0.19
+IOU: -1.07
+IOU: -1.38
+Images/Tester6_robicart/images/Tester6_robicart_33.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_23.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_9.png
+Count of groundtruth bounding boxes: 6
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_51.png
+Count of groundtruth bounding boxes: 15
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_41.png
+Count of groundtruth bounding boxes: 13
+Count of detected bounding boxes: 5
+IOU: -1.11
+IOU: -1.06
+IOU: -1.05
+IOU: -1.06
+IOU: -1.05
+IOU: -1.2
+IOU: -1.14
+IOU: -1.13
+IOU: -1.15
+IOU: -1.14
+IOU: -1.17
+IOU: -1.12
+IOU: -1.12
+IOU: -1.13
+IOU: -1.12
+IOU: -1.19
+IOU: -1.15
+IOU: -1.14
+IOU: -1.15
+IOU: -1.15
+IOU: -1.09
+IOU: -1.07
+IOU: -1.07
+IOU: -1.07
+IOU: -1.07
+IOU: -1.57
+IOU: -1.44
+IOU: -1.4
+IOU: -1.47
+IOU: -1.42
+IOU: 0.15
+IOU: 0.01
+IOU: 0.01
+IOU: 0.01
+IOU: 0.01
+IOU: 2.99
+IOU: 55.08
+IOU: -43.56
+IOU: 9.51
+IOU: 25.95
+IOU: 0.01
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.02
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: 2.2
+IOU: 2.82
+IOU: -2.16
+IOU: -2.22
+IOU: -1.49
+Images/Tester6_robicart/images/Tester6_robicart_48.png
+Count of groundtruth bounding boxes: 14
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_58.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_83.png
+Count of groundtruth bounding boxes: 8
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_77.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 6
+IOU: -10.5
+IOU: 15.98
+IOU: -2.0
+IOU: -3.88
+IOU: -2.13
+IOU: -1.75
+IOU: 0.01
+IOU: 0.02
+IOU: 0.1
+IOU: 0.03
+IOU: 0.07
+IOU: 0.14
+IOU: 0.06
+IOU: 0.04
+IOU: 0.09
+IOU: 0.08
+IOU: 0.01
+IOU: 0.0
+IOU: 0.42
+IOU: 0.51
+IOU: 38.69
+IOU: 0.84
+IOU: -29.54
+IOU: -5.14
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.58
+IOU: 0.04
+IOU: 0.66
+IOU: 0.01
+IOU: 3.93
+IOU: 3.22
+IOU: -1.47
+IOU: -1.91
+IOU: -1.08
+IOU: -1.11
+IOU: -1.08
+IOU: -1.03
+IOU: -1.05
+IOU: -1.04
+IOU: -1.03
+IOU: -1.03
+IOU: -1.02
+IOU: -1.02
+IOU: -1.14
+IOU: -1.12
+IOU: 1.01
+IOU: -1.06
+IOU: 0.0
+IOU: -1.71
+Images/Tester6_robicart/images/Tester6_robicart_67.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_15.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_59.png
+Count of groundtruth bounding boxes: 17
+Count of detected bounding boxes: 6
+IOU: -1.1
+IOU: -1.12
+IOU: -1.11
+IOU: -1.31
+IOU: -1.13
+IOU: -1.37
+IOU: -1.05
+IOU: -1.06
+IOU: -1.05
+IOU: -1.09
+IOU: -1.06
+IOU: -1.11
+IOU: -1.1
+IOU: -1.12
+IOU: -1.11
+IOU: -1.19
+IOU: -1.13
+IOU: -1.21
+IOU: -1.52
+IOU: -1.76
+IOU: -1.59
+IOU: -2.09
+IOU: -1.89
+IOU: -2.53
+IOU: -1.08
+IOU: -1.09
+IOU: -1.08
+IOU: -1.16
+IOU: -1.09
+IOU: -1.17
+IOU: -1.14
+IOU: -1.16
+IOU: -1.15
+IOU: -1.37
+IOU: -1.17
+IOU: -1.42
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.03
+IOU: -1.02
+IOU: -1.03
+IOU: -1.04
+IOU: -1.04
+IOU: -1.04
+IOU: -1.09
+IOU: -1.04
+IOU: -1.1
+IOU: -1.54
+IOU: -1.63
+IOU: -1.59
+IOU: -16.51
+IOU: -1.69
+IOU: 13.87
+IOU: -2.91
+IOU: -4.19
+IOU: -3.29
+IOU: -12.62
+IOU: -5.23
+IOU: 49.55
+IOU: 10.73
+IOU: 2.9
+IOU: 3.56
+IOU: 0.83
+IOU: 1.71
+IOU: 0.82
+IOU: -1.96
+IOU: -2.29
+IOU: -2.11
+IOU: 0.96
+IOU: -2.52
+IOU: 0.63
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.74
+IOU: -1.89
+IOU: -1.87
+IOU: 0.0
+IOU: -2.06
+IOU: 0.12
+IOU: -1.02
+IOU: -1.02
+IOU: -1.02
+IOU: -1.02
+IOU: -1.02
+IOU: -1.03
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.05
+IOU: -1.07
+IOU: -1.06
+IOU: -1.11
+IOU: -1.08
+IOU: -1.12
+Images/Tester6_robicart/images/Tester6_robicart_49.png
+Count of groundtruth bounding boxes: 14
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_1.png
+Count of groundtruth bounding boxes: 2
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_82.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_66.png
+Count of groundtruth bounding boxes: 17
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_76.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 6
+IOU: -1.82
+IOU: -2.05
+IOU: -1.4
+IOU: -1.95
+IOU: -4.13
+IOU: -1.44
+IOU: 0.1
+IOU: 1.38
+IOU: 0.34
+IOU: 0.07
+IOU: 1.19
+IOU: 0.29
+IOU: 0.0
+IOU: 0.05
+IOU: 0.0
+IOU: 0.0
+IOU: 0.07
+IOU: 0.01
+IOU: -1.34
+IOU: 1.31
+IOU: -1.18
+IOU: -1.35
+IOU: 0.27
+IOU: -1.19
+IOU: 0.0
+IOU: 0.14
+IOU: 0.0
+IOU: 0.0
+IOU: 0.15
+IOU: 0.0
+IOU: 0.0
+IOU: 0.51
+IOU: 0.0
+IOU: 0.05
+IOU: 1.17
+IOU: 0.07
+IOU: -1.47
+IOU: 1.9
+IOU: -1.19
+IOU: -1.44
+IOU: -2.16
+IOU: -1.19
+IOU: -1.04
+IOU: -2.66
+IOU: -1.02
+IOU: -1.07
+IOU: -1.77
+IOU: -1.03
+IOU: -1.02
+IOU: -1.61
+IOU: -1.01
+IOU: -1.02
+IOU: -1.37
+IOU: -1.01
+IOU: -2.07
+IOU: -7.58
+IOU: -1.24
+IOU: -3.1
+IOU: -2.19
+IOU: -1.29
+Images/Tester6_robicart/images/Tester6_robicart_14.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_8.png
+Count of groundtruth bounding boxes: 6
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_22.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 9
+IOU: -1.33
+IOU: -1.76
+IOU: -1.3
+IOU: -1.59
+IOU: -5.94
+IOU: -1.51
+IOU: -1.73
+IOU: -1.29
+IOU: -1.33
+IOU: -1.07
+IOU: -1.1
+IOU: -1.06
+IOU: -1.1
+IOU: -1.17
+IOU: -1.09
+IOU: -1.1
+IOU: -1.06
+IOU: -1.07
+IOU: -1.08
+IOU: -1.11
+IOU: -1.07
+IOU: -1.11
+IOU: -1.16
+IOU: -1.1
+IOU: -1.1
+IOU: -1.07
+IOU: -1.08
+IOU: -1.04
+IOU: -1.04
+IOU: -1.03
+IOU: -1.05
+IOU: -1.06
+IOU: -1.04
+IOU: -1.04
+IOU: -1.03
+IOU: -1.04
+IOU: 0.11
+IOU: 0.06
+IOU: 0.14
+IOU: 0.02
+IOU: 0.09
+IOU: 0.03
+IOU: 0.06
+IOU: 0.15
+IOU: 0.12
+IOU: -1.83
+IOU: -7.72
+IOU: -1.7
+IOU: -4.34
+IOU: 0.84
+IOU: -3.11
+IOU: -6.36
+IOU: -1.66
+IOU: -1.81
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.32
+IOU: 0.79
+IOU: -1.23
+IOU: -4.77
+IOU: -15.14
+IOU: -2.13
+IOU: 0.89
+IOU: -1.21
+IOU: -1.3
+Images/Tester6_robicart/images/Tester6_robicart_32.png
+Count of groundtruth bounding boxes: 12
+Count of detected bounding boxes: 3
+IOU: -1.68
+IOU: -2.13
+IOU: -2.44
+IOU: -1.12
+IOU: -1.25
+IOU: -1.27
+IOU: -1.06
+IOU: -1.12
+IOU: -1.12
+IOU: -1.11
+IOU: -1.24
+IOU: -1.26
+IOU: -1.11
+IOU: -1.19
+IOU: -1.21
+IOU: 0.47
+IOU: 1.0
+IOU: 0.61
+IOU: -8.86
+IOU: 0.47
+IOU: 0.54
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.02
+IOU: -1.11
+IOU: -1.07
+IOU: -1.11
+Images/Tester6_robicart/images/Tester6_robicart_40.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_50.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_18.png
+Count of groundtruth bounding boxes: 12
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_37.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_27.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_55.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_45.png
+Count of groundtruth bounding boxes: 13
+Count of detected bounding boxes: 8
+IOU: -1.2
+IOU: -1.1
+IOU: -1.16
+IOU: -1.15
+IOU: -1.1
+IOU: -1.08
+IOU: -1.14
+IOU: -1.14
+IOU: -1.14
+IOU: -1.06
+IOU: -1.1
+IOU: -1.1
+IOU: -1.06
+IOU: -1.05
+IOU: -1.1
+IOU: -1.09
+IOU: -1.25
+IOU: -1.17
+IOU: -1.2
+IOU: -1.17
+IOU: -1.17
+IOU: -1.12
+IOU: -1.18
+IOU: -1.15
+IOU: -1.11
+IOU: -1.07
+IOU: -1.06
+IOU: -1.05
+IOU: -1.06
+IOU: -1.04
+IOU: -1.06
+IOU: -1.05
+IOU: -1.96
+IOU: -1.55
+IOU: -1.8
+IOU: -1.63
+IOU: -1.62
+IOU: -1.42
+IOU: -1.69
+IOU: -1.57
+IOU: -3.16
+IOU: -1.48
+IOU: -2.25
+IOU: -2.06
+IOU: -1.48
+IOU: -1.38
+IOU: -2.0
+IOU: -1.88
+IOU: 0.19
+IOU: 0.63
+IOU: 0.0
+IOU: 0.01
+IOU: 0.66
+IOU: 1.04
+IOU: 0.0
+IOU: 0.01
+IOU: 0.98
+IOU: -5.02
+IOU: 2.01
+IOU: 2.93
+IOU: -8.35
+IOU: -2.8
+IOU: 3.48
+IOU: 5.92
+IOU: 0.01
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.02
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.03
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -3.44
+IOU: -1.08
+IOU: -1.62
+IOU: -1.34
+IOU: -1.05
+IOU: -1.04
+IOU: 1.46
+IOU: -2.21
+Images/Tester6_robicart/images/Tester6_robicart_73.png
+Count of groundtruth bounding boxes: 18
+Count of detected bounding boxes: 2
+IOU: -1.23
+IOU: -1.61
+IOU: 0.73
+IOU: -1.12
+IOU: -1.45
+IOU: -1.04
+IOU: -4.38
+IOU: -1.03
+IOU: -1.22
+IOU: -1.05
+IOU: -1.12
+IOU: -1.04
+IOU: -1.09
+IOU: -1.04
+IOU: -1.88
+IOU: -1.11
+IOU: 1.8
+IOU: -1.65
+IOU: 0.56
+IOU: -2.67
+IOU: 0.06
+IOU: 0.0
+IOU: 0.0
+IOU: -1.99
+IOU: 0.02
+IOU: 0.0
+IOU: -2.04
+IOU: -1.39
+IOU: -1.09
+IOU: -1.01
+IOU: 0.0
+IOU: -1.02
+IOU: -1.03
+IOU: -1.0
+IOU: -2.07
+IOU: -2.07
+Images/Tester6_robicart/images/Tester6_robicart_63.png
+Count of groundtruth bounding boxes: 17
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_11.png
+Count of groundtruth bounding boxes: 6
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_4.png
+Count of groundtruth bounding boxes: 4
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_62.png
+Count of groundtruth bounding boxes: 18
+Count of detected bounding boxes: 4
+IOU: -1.04
+IOU: -1.04
+IOU: -1.04
+IOU: -1.05
+IOU: -1.51
+IOU: -1.37
+IOU: -1.46
+IOU: -1.56
+IOU: -1.25
+IOU: -1.22
+IOU: -1.25
+IOU: -1.27
+IOU: -1.12
+IOU: -1.11
+IOU: -1.12
+IOU: -1.12
+IOU: -2.74
+IOU: -2.43
+IOU: -2.75
+IOU: -2.89
+IOU: -1.06
+IOU: -1.06
+IOU: -1.06
+IOU: -1.06
+IOU: -1.03
+IOU: -1.03
+IOU: -1.03
+IOU: -1.03
+IOU: -1.55
+IOU: -1.53
+IOU: -1.59
+IOU: -1.59
+IOU: -1.11
+IOU: -1.11
+IOU: -1.12
+IOU: -1.12
+IOU: -1.04
+IOU: -1.04
+IOU: -1.04
+IOU: -1.04
+IOU: -4.39
+IOU: -3.9
+IOU: -6.54
+IOU: -6.07
+IOU: -1.69
+IOU: -1.64
+IOU: -1.74
+IOU: -1.75
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.64
+IOU: -1.64
+IOU: -1.76
+IOU: -1.72
+IOU: -1.02
+IOU: -1.01
+IOU: -1.02
+IOU: -1.02
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.02
+IOU: -1.02
+IOU: -1.03
+IOU: -1.03
+Images/Tester6_robicart/images/Tester6_robicart_72.png
+Count of groundtruth bounding boxes: 18
+Count of detected bounding boxes: 9
+IOU: 1.47
+IOU: -1.35
+IOU: -27.11
+IOU: -1.32
+IOU: -1.36
+IOU: -1.38
+IOU: -1.45
+IOU: 2.43
+IOU: -2.09
+IOU: -1.17
+IOU: -2.22
+IOU: -1.15
+IOU: -1.1
+IOU: -1.1
+IOU: -1.1
+IOU: -1.24
+IOU: -2.09
+IOU: -1.28
+IOU: -1.05
+IOU: -1.21
+IOU: -1.05
+IOU: -1.03
+IOU: -1.03
+IOU: -1.04
+IOU: -1.06
+IOU: -1.25
+IOU: -1.09
+IOU: -1.04
+IOU: -1.9
+IOU: -1.04
+IOU: -1.02
+IOU: -1.02
+IOU: -1.03
+IOU: -1.06
+IOU: -1.32
+IOU: -1.06
+IOU: -1.07
+IOU: -1.16
+IOU: -1.06
+IOU: -1.04
+IOU: -1.05
+IOU: -1.05
+IOU: -1.07
+IOU: -1.25
+IOU: -1.12
+IOU: -1.05
+IOU: -1.1
+IOU: -1.04
+IOU: -1.03
+IOU: -1.03
+IOU: -1.03
+IOU: -1.05
+IOU: -1.18
+IOU: -1.1
+IOU: -1.05
+IOU: -1.08
+IOU: -1.04
+IOU: -1.03
+IOU: -1.03
+IOU: -1.03
+IOU: -1.04
+IOU: -1.17
+IOU: -1.1
+IOU: -1.15
+IOU: -1.45
+IOU: -1.14
+IOU: -1.09
+IOU: -1.09
+IOU: -1.09
+IOU: -1.16
+IOU: -2.51
+IOU: -1.45
+IOU: -2.07
+IOU: 18.6
+IOU: -1.91
+IOU: -1.46
+IOU: -1.48
+IOU: -1.51
+IOU: -2.25
+IOU: 0.74
+IOU: 2.98
+IOU: -9.84
+IOU: 0.04
+IOU: -5.27
+IOU: -2.0
+IOU: -2.06
+IOU: -2.12
+IOU: 1.48
+IOU: 0.45
+IOU: 8.82
+IOU: 0.01
+IOU: 0.02
+IOU: 0.01
+IOU: 0.08
+IOU: 0.08
+IOU: 0.07
+IOU: 0.03
+IOU: 0.0
+IOU: 0.0
+IOU: -3.49
+IOU: 0.57
+IOU: -2.77
+IOU: -1.62
+IOU: -1.65
+IOU: -1.69
+IOU: -10.54
+IOU: 0.16
+IOU: 0.46
+IOU: 0.0
+IOU: 0.02
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.01
+IOU: 0.0
+IOU: -1.32
+IOU: -1.44
+IOU: -1.27
+IOU: -1.15
+IOU: -1.16
+IOU: -1.17
+IOU: -1.2
+IOU: 0.2
+IOU: 0.1
+IOU: -1.01
+IOU: -1.06
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.08
+IOU: -1.02
+IOU: -1.02
+IOU: -1.25
+IOU: -1.02
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.03
+IOU: -1.12
+IOU: -1.03
+IOU: -1.0
+IOU: -1.02
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.02
+IOU: -1.01
+IOU: -1.27
+IOU: -3.17
+IOU: -1.2
+IOU: -1.08
+IOU: -1.08
+IOU: -1.09
+IOU: 1.96
+IOU: 0.12
+IOU: -2.43
+Images/Tester6_robicart/images/Tester6_robicart_10.png
+Count of groundtruth bounding boxes: 7
+Count of detected bounding boxes: 6
+IOU: -1.53
+IOU: -1.39
+IOU: -1.29
+IOU: -1.45
+IOU: -1.65
+IOU: -1.45
+IOU: -1.29
+IOU: -1.23
+IOU: -1.14
+IOU: -1.17
+IOU: -1.34
+IOU: -1.27
+IOU: 0.16
+IOU: 0.07
+IOU: -1.4
+IOU: -1.55
+IOU: 0.16
+IOU: 0.07
+IOU: 1.83
+IOU: 4.86
+IOU: -2.76
+IOU: -7.28
+IOU: 0.88
+IOU: 1.7
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.46
+IOU: -1.2
+IOU: -1.23
+IOU: 0.26
+IOU: 0.11
+IOU: -1.62
+IOU: -1.28
+IOU: -1.04
+IOU: -1.06
+IOU: 0.43
+IOU: 9.65
+Images/Tester6_robicart/images/Tester6_robicart_86.png
+Count of groundtruth bounding boxes: 8
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_5.png
+Count of groundtruth bounding boxes: 5
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_19.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_26.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_36.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_44.png
+Count of groundtruth bounding boxes: 13
+Count of detected bounding boxes: 8
+IOU: -1.2
+IOU: -1.1
+IOU: -1.16
+IOU: -1.15
+IOU: -1.1
+IOU: -1.08
+IOU: -1.14
+IOU: -1.14
+IOU: -1.14
+IOU: -1.06
+IOU: -1.1
+IOU: -1.1
+IOU: -1.06
+IOU: -1.05
+IOU: -1.1
+IOU: -1.09
+IOU: -1.25
+IOU: -1.17
+IOU: -1.2
+IOU: -1.17
+IOU: -1.17
+IOU: -1.12
+IOU: -1.18
+IOU: -1.15
+IOU: -1.11
+IOU: -1.07
+IOU: -1.06
+IOU: -1.05
+IOU: -1.06
+IOU: -1.04
+IOU: -1.06
+IOU: -1.05
+IOU: -1.96
+IOU: -1.55
+IOU: -1.8
+IOU: -1.63
+IOU: -1.62
+IOU: -1.42
+IOU: -1.69
+IOU: -1.57
+IOU: -3.16
+IOU: -1.48
+IOU: -2.25
+IOU: -2.06
+IOU: -1.48
+IOU: -1.38
+IOU: -2.0
+IOU: -1.88
+IOU: 0.17
+IOU: 0.56
+IOU: 0.0
+IOU: 0.01
+IOU: 0.56
+IOU: 0.9
+IOU: 0.0
+IOU: 0.01
+IOU: 0.98
+IOU: -5.02
+IOU: 2.01
+IOU: 2.93
+IOU: -8.35
+IOU: -2.8
+IOU: 3.48
+IOU: 5.92
+IOU: 0.01
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.02
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.03
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -3.9
+IOU: -1.09
+IOU: -1.76
+IOU: -1.41
+IOU: -1.06
+IOU: -1.05
+IOU: 1.66
+IOU: -2.46
+Images/Tester6_robicart/images/Tester6_robicart_54.png
+Count of groundtruth bounding boxes: 17
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_12.png
+Count of groundtruth bounding boxes: 8
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_70.png
+Count of groundtruth bounding boxes: 17
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_60.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_7.png
+Count of groundtruth bounding boxes: 5
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_84.png
+Count of groundtruth bounding boxes: 8
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_69.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_79.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 5
+IOU: -2.58
+IOU: -137.75
+IOU: -2.76
+IOU: -3.7
+IOU: 12.86
+IOU: 0.06
+IOU: 0.01
+IOU: 0.05
+IOU: 0.04
+IOU: 0.01
+IOU: 0.02
+IOU: 0.0
+IOU: 0.04
+IOU: 0.03
+IOU: 0.01
+IOU: 1.12
+IOU: 0.56
+IOU: 0.82
+IOU: 0.4
+IOU: 0.42
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.02
+IOU: 0.04
+IOU: 0.0
+IOU: 0.54
+IOU: 0.04
+IOU: -1.05
+IOU: 0.62
+IOU: -1.06
+IOU: -1.11
+IOU: -12.83
+IOU: -1.02
+IOU: -1.04
+IOU: -1.02
+IOU: -1.03
+IOU: -1.05
+IOU: -1.06
+IOU: -1.25
+IOU: -1.05
+IOU: -1.1
+IOU: -1.22
+Images/Tester6_robicart/images/Tester6_robicart_56.png
+Count of groundtruth bounding boxes: 18
+Count of detected bounding boxes: 6
+IOU: -1.06
+IOU: -1.09
+IOU: -1.04
+IOU: -1.1
+IOU: -1.04
+IOU: -1.12
+IOU: -1.16
+IOU: -1.2
+IOU: -1.09
+IOU: -1.47
+IOU: -1.1
+IOU: -1.56
+IOU: -1.07
+IOU: -1.09
+IOU: -1.05
+IOU: -1.13
+IOU: -1.05
+IOU: -1.15
+IOU: -1.04
+IOU: -1.07
+IOU: -1.02
+IOU: -1.06
+IOU: -1.03
+IOU: -1.08
+IOU: -1.04
+IOU: -1.05
+IOU: -1.03
+IOU: -1.08
+IOU: -1.03
+IOU: -1.09
+IOU: -1.05
+IOU: -1.06
+IOU: -1.04
+IOU: -1.11
+IOU: -1.04
+IOU: -1.12
+IOU: -1.88
+IOU: -2.09
+IOU: -1.41
+IOU: 4.96
+IOU: -1.45
+IOU: 3.25
+IOU: -4.67
+IOU: -19.26
+IOU: -1.81
+IOU: -92.23
+IOU: -2.01
+IOU: 8.93
+IOU: -1.03
+IOU: -1.05
+IOU: -1.02
+IOU: -1.04
+IOU: -1.02
+IOU: -1.06
+IOU: -3.07
+IOU: 4.78
+IOU: -1.34
+IOU: -3.14
+IOU: -1.45
+IOU: -6.22
+IOU: 2.82
+IOU: 1.61
+IOU: -2.03
+IOU: 1.85
+IOU: -2.24
+IOU: 1.35
+IOU: -3.44
+IOU: -5.98
+IOU: -1.62
+IOU: 0.46
+IOU: -1.73
+IOU: 0.39
+IOU: 0.0
+IOU: 0.01
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -2.47
+IOU: -2.47
+IOU: -1.5
+IOU: 0.21
+IOU: -1.49
+IOU: 0.18
+IOU: -1.02
+IOU: -1.05
+IOU: -1.01
+IOU: -1.02
+IOU: -1.01
+IOU: -1.04
+IOU: -1.01
+IOU: -1.03
+IOU: -1.01
+IOU: -1.02
+IOU: -1.01
+IOU: -1.03
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.01
+IOU: -1.13
+IOU: -1.23
+IOU: -1.05
+IOU: -1.18
+IOU: -1.06
+IOU: -1.25
+Images/Tester6_robicart/images/Tester6_robicart_46.png
+Count of groundtruth bounding boxes: 13
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_34.png
+Count of groundtruth bounding boxes: 12
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_24.png
+Count of groundtruth bounding boxes: 10
+Count of detected bounding boxes: 2
+IOU: -1.83
+IOU: -1.86
+IOU: -1.2
+IOU: -1.21
+IOU: -1.1
+IOU: -1.1
+IOU: -1.18
+IOU: -1.2
+IOU: 0.81
+IOU: 1.13
+IOU: 1.32
+IOU: 0.94
+IOU: 0.0
+IOU: 0.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+Images/Tester6_robicart/images/Tester6_robicart_78.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 9
+IOU: -2.4
+IOU: -2.12
+IOU: -1.84
+IOU: -1.81
+IOU: -2.08
+IOU: 7.01
+IOU: -5.57
+IOU: -2.43
+IOU: -1.83
+IOU: 0.05
+IOU: 0.09
+IOU: 0.12
+IOU: 0.01
+IOU: 0.09
+IOU: 0.01
+IOU: 0.02
+IOU: 0.05
+IOU: 0.13
+IOU: 0.01
+IOU: 0.05
+IOU: 0.0
+IOU: 0.27
+IOU: 0.05
+IOU: 0.01
+IOU: 0.03
+IOU: 0.02
+IOU: 0.0
+IOU: 6.18
+IOU: 5.21
+IOU: -14.27
+IOU: -2.33
+IOU: 4.55
+IOU: 0.28
+IOU: 0.39
+IOU: 4.46
+IOU: -32.18
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.57
+IOU: 0.03
+IOU: 0.47
+IOU: -1.41
+IOU: 0.18
+IOU: 0.11
+IOU: 0.07
+IOU: 0.26
+IOU: 0.19
+IOU: -1.11
+IOU: -1.07
+IOU: -1.03
+IOU: -1.19
+IOU: -1.06
+IOU: 1.31
+IOU: -1.12
+IOU: -1.11
+IOU: -1.03
+IOU: -1.03
+IOU: -1.03
+IOU: -1.02
+IOU: -1.02
+IOU: -1.02
+IOU: -1.06
+IOU: -1.03
+IOU: -1.03
+IOU: -1.02
+IOU: 0.13
+IOU: -2.65
+IOU: 0.0
+IOU: -1.04
+IOU: 7.39
+IOU: -1.25
+IOU: -1.1
+IOU: 3.36
+IOU: 0.0
+Images/Tester6_robicart/images/Tester6_robicart_68.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_47.png
+Count of groundtruth bounding boxes: 15
+Count of detected bounding boxes: 1
+IOU: -1.1
+IOU: -1.04
+IOU: -1.27
+IOU: -1.08
+IOU: -1.1
+IOU: -1.04
+IOU: -1.57
+IOU: 0.33
+IOU: -1.56
+IOU: 0.0
+IOU: -1.08
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.09
+Images/Tester6_robicart/images/Tester6_robicart_57.png
+Count of groundtruth bounding boxes: 15
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_25.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 9
+IOU: -1.48
+IOU: -1.64
+IOU: -1.55
+IOU: -1.31
+IOU: -1.28
+IOU: -1.56
+IOU: -1.33
+IOU: -1.57
+IOU: -1.29
+IOU: -1.15
+IOU: -1.17
+IOU: -1.16
+IOU: -1.08
+IOU: -1.08
+IOU: -1.1
+IOU: -1.09
+IOU: -1.11
+IOU: -1.08
+IOU: -1.07
+IOU: -1.08
+IOU: -1.08
+IOU: -1.04
+IOU: -1.04
+IOU: -1.05
+IOU: -1.05
+IOU: -1.05
+IOU: -1.04
+IOU: -1.13
+IOU: -1.15
+IOU: -1.15
+IOU: -1.07
+IOU: -1.06
+IOU: -1.09
+IOU: -1.08
+IOU: -1.1
+IOU: -1.07
+IOU: 0.0
+IOU: 0.0
+IOU: 0.06
+IOU: 0.25
+IOU: 0.29
+IOU: 0.1
+IOU: 0.21
+IOU: 0.1
+IOU: 0.27
+IOU: 28.62
+IOU: 4.5
+IOU: 3.13
+IOU: -1.84
+IOU: -1.73
+IOU: -3.85
+IOU: -1.96
+IOU: -3.9
+IOU: -1.76
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.01
+IOU: -1.0
+IOU: -1.64
+IOU: -3.07
+IOU: -1.85
+IOU: -1.16
+IOU: -1.13
+IOU: -1.24
+IOU: -1.2
+IOU: -1.28
+IOU: -1.14
+Images/Tester6_robicart/images/Tester6_robicart_35.png
+Count of groundtruth bounding boxes: 11
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_13.png
+Count of groundtruth bounding boxes: 9
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_61.png
+Count of groundtruth bounding boxes: 16
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_71.png
+Count of groundtruth bounding boxes: 18
+Count of detected bounding boxes: 7
+IOU: -1.25
+IOU: -1.43
+IOU: -1.18
+IOU: -1.47
+IOU: -1.43
+IOU: -1.19
+IOU: -1.5
+IOU: -1.34
+IOU: -1.12
+IOU: -1.59
+IOU: -1.12
+IOU: -1.13
+IOU: -1.63
+IOU: -1.13
+IOU: -1.29
+IOU: -1.04
+IOU: -2.03
+IOU: -1.04
+IOU: -1.04
+IOU: -2.12
+IOU: -1.04
+IOU: -1.09
+IOU: -1.03
+IOU: -1.08
+IOU: -1.03
+IOU: -1.03
+IOU: -1.09
+IOU: -1.03
+IOU: 0.48
+IOU: -1.06
+IOU: -1.58
+IOU: -1.05
+IOU: -1.06
+IOU: -1.62
+IOU: -1.06
+IOU: -1.42
+IOU: -1.04
+IOU: -1.15
+IOU: -1.04
+IOU: -1.04
+IOU: -1.16
+IOU: -1.04
+IOU: -1.21
+IOU: -1.04
+IOU: -1.11
+IOU: -1.04
+IOU: -1.04
+IOU: -1.11
+IOU: -1.04
+IOU: -2.9
+IOU: -1.12
+IOU: 0.15
+IOU: -1.11
+IOU: -1.12
+IOU: 0.14
+IOU: -1.12
+IOU: 0.81
+IOU: -1.73
+IOU: 0.08
+IOU: -1.66
+IOU: -1.79
+IOU: 0.07
+IOU: -1.74
+IOU: -3.57
+IOU: -2.57
+IOU: -7.77
+IOU: -2.53
+IOU: -2.68
+IOU: -10.67
+IOU: -2.72
+IOU: 0.0
+IOU: 0.0
+IOU: 0.17
+IOU: 0.0
+IOU: 0.0
+IOU: 0.14
+IOU: 0.0
+IOU: -1.95
+IOU: -1.31
+IOU: -2.53
+IOU: -1.29
+IOU: -1.33
+IOU: -2.77
+IOU: -1.32
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: -1.55
+IOU: -1.11
+IOU: -1.17
+IOU: -1.09
+IOU: -1.12
+IOU: -1.19
+IOU: -1.1
+IOU: -13.06
+IOU: -1.01
+IOU: -1.11
+IOU: -1.01
+IOU: -1.01
+IOU: -1.12
+IOU: -1.01
+IOU: -1.08
+IOU: -1.02
+IOU: -1.07
+IOU: -1.02
+IOU: -1.02
+IOU: -1.07
+IOU: -1.02
+IOU: -1.03
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.0
+IOU: -1.01
+IOU: -1.0
+IOU: -1.34
+IOU: -1.64
+IOU: -1.17
+IOU: -2.03
+IOU: -1.61
+IOU: -1.19
+IOU: -2.24
+Images/Tester6_robicart/images/Tester6_robicart_85.png
+Count of groundtruth bounding boxes: 8
+Count of detected bounding boxes: 0
+Images/Tester6_robicart/images/Tester6_robicart_6.png
+Count of groundtruth bounding boxes: 6
+Count of detected bounding boxes: 6
+IOU: -1.68
+IOU: -1.87
+IOU: -1.29
+IOU: -1.32
+IOU: -1.63
+IOU: -1.26
+IOU: 0.1
+IOU: 0.06
+IOU: 0.12
+IOU: 0.07
+IOU: 0.01
+IOU: 0.02
+IOU: 2.18
+IOU: 1.28
+IOU: -2.78
+IOU: -3.55
+IOU: 2.42
+IOU: -2.55
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 0.0
+IOU: 1.94
+IOU: 0.39
+IOU: -1.42
+IOU: -1.52
+IOU: 2.16
+IOU: -1.4
+IOU: 0.28
+IOU: 3.28
+IOU: 0.28
+IOU: 0.75
+IOU: 3.11
+IOU: 0.14
+Total annotation bboxes: 989
+Total prediction bboxes: 168
+Total correct detections: 3
+Total missed detections: 2025

@@ -1,5 +1,6 @@
 import cv2
 import xml.etree.ElementTree as ET
+import os
 
 FILE_NAME_ANOT = 'My_test2_1.png.xml'
 FILE_NAME_PRED = 'My_test2_1_pred.png.xml'
@@ -82,30 +83,73 @@ def read_content_anotation(xml_file: str):
     return list_with_all_boxes
     #return filename, list_with_single_boxes
 
-def main():
+def main(folder_name:str):
 	#bbox_cat1 = [130, 32, 450, 452]	# Defining the coordinates of the first bounding box (x1,y1,x2,y2)
 	#bbox_cat2 = [140, 42, 350, 447]	# Defining the coordinates of the second bounding box (x3,y3,x4,y4)
-	bbox_array_anot = []
-	bbox_array_pred = []
-	bbox_array_anot = read_content_anotation("Images/Tester6_robicart/Tester6_robicart_24.png.xml")
-	img_name, bbox_array_pred = read_content_pred("Images/Tester6_robicart/Tester6_robicart_24.png_pred.xml")
+
+	rootDirectory = 'Images/Tester6_robicart'
+	imagesDirectory = rootDirectory + '/images'
+	annotationDirectory = rootDirectory + '/annotations'
+	predictionDirectory = rootDirectory + '/predictions'
+
+	file = open('detectionStatistic.txt', 'w')
+	file.write('Name of root folder - ' + rootDirectory + '\n')
+	file.close()
+
+	totalAnnotationCount = 0
+	totalPredictionCount = 0
+	AnnotationCount = 0
+	PredictionCount = 0
+	totalCorrectDetectionCount = 0
+	totalWrongDetectionCount = 0
+	totalMissedDetectionCount = 0 
+
+	for filename in os.listdir(annotationDirectory):
+		currentAnnotation = os.path.join(annotationDirectory, filename)
+		namePred = os.path.splitext(filename)[0] + '_pred.xml'
+		bbox_array_anot = []
+		bbox_array_pred = []
+		correctDetectionPerImage = 0
+		missedDetectionsPerImage = 0
+		lostDetectionsPerImage = 0
+		bbox_array_anot = read_content_anotation(annotationDirectory + '/' + filename)
+		img_name, bbox_array_pred = read_content_pred(predictionDirectory + '/' + namePred)
+		file = open('detectionStatistic.txt', 'a')
+		file.write(img_name + '\n')
+		file.write('Count of groundtruth bounding boxes: ' + str(len(bbox_array_anot)) + '\n')
+		file.write('Count of detected bounding boxes: ' + str(len(bbox_array_pred)) + '\n')
+		AnnotationCount =+ len(bbox_array_anot)
+		PredictionCount =+ len(bbox_array_pred)
+		#file.close()
 	#img = cv2.imread("Images/Cat.jpg")	# Read the image 
-	img = cv2.imread(img_name)	# Read the image 
-	img = cv2.resize(img, (640, 480))	# Resize the image to be displayed on the screen
-	for x in bbox_array_anot:
+		img = cv2.imread(img_name)	# Read the image 
+		img = cv2.resize(img, (640, 480))	# Resize the image to be displayed on the screen
+		if bbox_array_pred ==0:
+			lostDetectionsPerImage+=1
+		for x in bbox_array_anot:
+			img = draw_box(img,x,color=(0,255,0))
+			for y in bbox_array_pred:
+				iou = IOU(x, y)	# Calling the function to return the IOU
+				img = cv2.putText(img, 'IOU: {}'.format(round(iou,2)), (x[0], x[1]), cv2.FONT_ITALIC , 0.6, (0,0,0), 2, cv2.LINE_AA) 	# Draw the IOU on the image
+				print("IOU OF THE BOXES IS: ", iou)	# Print the iou
+				#file = open('file_path.txt', 'a')
+				file.write('IOU: {}'.format(round(iou,2)) + '\n')
+				if iou >= 30:
+					correctDetectionPerImage +=1
+				else:
+					missedDetectionsPerImage +=1
+				#file.close()		
 
-		img = draw_box(img,x,color=(0,255,0))
+		for x in bbox_array_pred:
 
-	for x in bbox_array_pred:
+			img = draw_box(img,x,color=(255,0,0))
 
-		img = draw_box(img,x,color=(255,0,0))
-
-	for x in bbox_array_anot:
-		for y in bbox_array_pred:
-			iou = IOU(x, y)	# Calling the function to return the IOU
-			img = cv2.putText(img, 'IOU: {}'.format(iou), (x[0], x[1]), cv2.FONT_HERSHEY_SIMPLEX , 1, 
-						(255,0,0), 2, cv2.LINE_AA) 	# Draw the IOU on the image
-			print("IOU OF THE BOXES IS: ", iou)	# Print the iou
+	#for x in bbox_array_anot:
+	#	for y in bbox_array_pred:
+	#		iou = IOU(x, y)	# Calling the function to return the IOU
+	#		img = cv2.putText(img, 'IOU: {}'.format(round(iou,2)), (x[0], x[1]), cv2.FONT_HERSHEY_SIMPLEX , 0.6, 
+	#					(0,0,0), 2, cv2.LINE_AA) 	# Draw the IOU on the image
+	#		print("IOU OF THE BOXES IS: ", iou)	# Print the iou
 
 	#img = draw_box(img,bbox_cat1,color=(0,255,0)) # Call the function to draw the first box	
 	#img = draw_box(img,bbox_cat2,color=(255,0,0)) # Call the function to draw the second box	
@@ -113,8 +157,18 @@ def main():
 	#img = cv2.putText(img, 'IOU: {}'.format(iou), (bbox_cat1[0], bbox_cat1[1]), cv2.FONT_HERSHEY_SIMPLEX , 1, 
 	#					(255,0,0), 2, cv2.LINE_AA) 	# Draw the IOU on the image
 	#print("IOU OF THE BOXES IS: ", iou)	# Print the iou
-	cv2.imshow("IMG", img)	# Show the image
-	cv2.waitKey()	# Wait for any key to be pressed to exit
+		cv2.imshow("IMG", img)	# Show the image
+		totalCorrectDetectionCount+=correctDetectionPerImage
+		totalMissedDetectionCount+=missedDetectionsPerImage
+		totalAnnotationCount+=AnnotationCount
+		totalPredictionCount+=PredictionCount
+		
+		#cv2.waitKey()	# Wait for any key to be pressed to exit
+	file.write('Total annotation bboxes: ' +  str(totalAnnotationCount) + '\n')
+	file.write('Total prediction bboxes: ' +  str(totalPredictionCount) + '\n')
+	file.write('Total correct detections: ' +  str(totalCorrectDetectionCount) + '\n')
+	file.write('Total missed detections: ' +  str(totalMissedDetectionCount) + '\n')
+	file.close()
 
 if __name__ == "__main__":
-	main()
+	main('gggh')
