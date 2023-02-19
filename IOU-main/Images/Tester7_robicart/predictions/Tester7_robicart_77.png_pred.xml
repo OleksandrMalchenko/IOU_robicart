@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<annotation>
+  <folder>training</folder>
+  <filename>Images/Tester7_robicart/images/Tester7_robicart_77.png</filename>
+  <source>
+    <database>synthetic initialization</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>synthetic</image>
+    <flickrid>none</flickrid>
+  </source>
+  <owner>
+    <flickrid>none</flickrid>
+    <name>none</name>
+  </owner>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <boundingbox>
+      <x1>267</x1>
+      <y1>0</y1>
+      <x2>268</x2>
+      <y2>36</y2>
+    </boundingbox>
+  </object>
+  <object>
+    <boundingbox>
+      <x1>27</x1>
+      <y1>16</y1>
+      <x2>28</x2>
+      <y2>75</y2>
+    </boundingbox>
+  </object>
+  <object>
+    <boundingbox>
+      <x1>271</x1>
+      <y1>6</y1>
+      <x2>280</x2>
+      <y2>6</y2>
+    </boundingbox>
+  </object>
+  <object>
+    <boundingbox>
+      <x1>31</x1>
+      <y1>48</y1>
+      <x2>40</x2>
+      <y2>48</y2>
+    </boundingbox>
+  </object>
+</annotation>

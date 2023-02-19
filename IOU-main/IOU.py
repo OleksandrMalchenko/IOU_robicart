@@ -92,6 +92,8 @@ def main(folder_name:str):
 	annotationDirectory = rootDirectory + '/annotations'
 	predictionDirectory = rootDirectory + '/predictions'
 
+	saveFileDirectory = 'Images/Tester6_robicart/imagesWithBoxes'
+
 	file = open('detectionStatistic.txt', 'w')
 	file.write('Name of root folder - ' + rootDirectory + '\n')
 	file.close()
@@ -157,13 +159,14 @@ def main(folder_name:str):
 	#img = cv2.putText(img, 'IOU: {}'.format(iou), (bbox_cat1[0], bbox_cat1[1]), cv2.FONT_HERSHEY_SIMPLEX , 1, 
 	#					(255,0,0), 2, cv2.LINE_AA) 	# Draw the IOU on the image
 	#print("IOU OF THE BOXES IS: ", iou)	# Print the iou
-		cv2.imshow("IMG", img)	# Show the image
+		
 		totalCorrectDetectionCount+=correctDetectionPerImage
 		totalMissedDetectionCount+=missedDetectionsPerImage
 		totalAnnotationCount+=AnnotationCount
 		totalPredictionCount+=PredictionCount
-		
-		#cv2.waitKey()	# Wait for any key to be pressed to exit
+		cv2.imshow("IMG", img)	# Show the image
+		cv2.imwrite(saveFileDirectory + '/' + filename + '.png', img)
+		cv2.waitKey()	# Wait for any key to be pressed to exit
 	file.write('Total annotation bboxes: ' +  str(totalAnnotationCount) + '\n')
 	file.write('Total prediction bboxes: ' +  str(totalPredictionCount) + '\n')
 	file.write('Total correct detections: ' +  str(totalCorrectDetectionCount) + '\n')
