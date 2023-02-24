@@ -87,7 +87,7 @@ def main(folder_name:str):
 	#bbox_cat1 = [130, 32, 450, 452]	# Defining the coordinates of the first bounding box (x1,y1,x2,y2)
 	#bbox_cat2 = [140, 42, 350, 447]	# Defining the coordinates of the second bounding box (x3,y3,x4,y4)
 
-	rootDirectory = 'Images/Tester6_robicart'
+	rootDirectory = 'Images/Tester1_robicart'
 	imagesDirectory = rootDirectory + '/images'
 	annotationDirectory = rootDirectory + '/annotations'
 	predictionDirectory = rootDirectory + '/predictions'
