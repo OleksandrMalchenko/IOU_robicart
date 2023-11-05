@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<annotation>
+  <folder>training</folder>
+  <filename>Images/Test1_office/images/Test1_office (7).png</filename>
+  <source>
+    <database>synthetic initialization</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>synthetic</image>
+    <flickrid>none</flickrid>
+  </source>
+  <owner>
+    <flickrid>none</flickrid>
+    <name>none</name>
+  </owner>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <boundingbox>
+      <x1>1.9714582</x1>
+      <y1>241.71109</y1>
+      <x2>168.55215</x2>
+      <y2>360.15387</y2>
+      <conf_score>0.61277324</conf_score>
+      <class_id>0</class_id>
+    </boundingbox>
+  </object>
+  <object>
+    <boundingbox>
+      <x1>343.69275</x1>
+      <y1>32.31871</y1>
+      <x2>409.294</x2>
+      <y2>209.04045</y2>
+      <conf_score>0.45750025</conf_score>
+      <class_id>0</class_id>
+    </boundingbox>
+  </object>
+  <object>
+    <boundingbox>
+      <x1>306.87543</x1>
+      <y1>145.60896</y1>
+      <x2>376.7076</x2>
+      <y2>342.5158</y2>
+      <conf_score>0.43194357</conf_score>
+      <class_id>0</class_id>
+    </boundingbox>
+  </object>
+</annotation>
